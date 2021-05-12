@@ -59,7 +59,7 @@
         "d3-time-format": "2.0.5",
         "date-fns": "2.4.1",
         "http-server": "0.12.0",
-        "lodash": "4.17.15",
+        "lodash": "4.17.21",
         "lodash-es": "4.17.15",
         "mithril": "2.0.4",
         "rlite-router": "1.1.3",
